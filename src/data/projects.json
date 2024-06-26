@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TrabalhaSampa",
+    "imageSrc": "projects/trabalhaSampa.png",
+    "description": "O projeto visa desburocratizar o acesso de jovens da periferia ao acesso a educação em tecnologia.",
+    "skills": ["ReactJS", "Node"],
+    "demo": "https://trabalha-sampa.herokuapp.com/",
+    "source": "https://github.com/isabvictoriaps/trabalhaSampa?tab=readme-ov-file"
+  },
+  {
+    "title": "Santander Sonhe",
+    "imageSrc": "projects/santanderSonhe.png",
+    "description": "O projeto visa apoiar o trabalhador informal por meio de uma sessão exclusiva no aplicativo Santander.",
+    "skills": ["Flutter", "Java"],
+    "demo": "https://github.com/thaizacn/UX-ProjetoSonhe",
+    "source": "https://github.com/thaizacn/UX-ProjetoSonhe"
+  },
+  {
+    "title": "Younify",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

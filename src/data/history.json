@@ -1,0 +1,23 @@
+[
+  {
+    "role": "IT Analyst +",
+    "organisation": "F1RST Tecnologia",
+    "startDate": "Mai, 2021",
+    "endDate": "Atual",
+    "experiences": [
+      "Desenvolvimento de Microserviços em Java", 
+      "Camel, Spring Boot, AKS, Docker, Kubernets etc."],
+    "imageSrc": "history/santander.png"
+  },
+  {
+    "role": "Embaixadora",
+    "organisation": "Joule",
+    "startDate": "Mar, 2024",
+    "endDate": "Atual",
+    "experiences": [
+      "Criação de conteúdo para o Tiktok",
+      "Impacto social por meio de mentorias"
+    ],
+    "imageSrc": "history/joule.png"
+  }
+]
