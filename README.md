@@ -1,6 +1,9 @@
 # ❤️ Meu portfolio pessoal
 
-Olá mundo! Este projeto foi desenvolvido para apresentar meus trabalhos e habilidades como desenvolvedora backend Java, utilizando a tecnologia ReactJS para a interface do usuário.
+Este projeto foi desenvolvido para apresentar meus trabalhos e habilidades como desenvolvedora backend Java, utilizando a tecnologia ReactJS para a interface do usuário.
+
+![image](https://github.com/thaizacn/CurriculoThaizaCN/assets/77704621/4e0fd9d2-591b-4192-ae2a-89a2b0dc6cb1)
+
 
 ## 📂 Sumário
 
